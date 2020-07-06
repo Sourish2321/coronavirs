@@ -1,8 +1,14 @@
 body{
 	background-color:lightgreen;
+	margin: 0px;
+	padding: 0px;
 }
 h1,h4{
      color:red;
+ }
+ header{
+	 background-color: blue;
+	 height:50;
  }
  p{
   color:blue;
@@ -10,9 +16,15 @@ h1,h4{
 .sym{
 	color:red;
 }
+header{
+	color:white;
+}
 ol,ul{
 	color:blue;
 }
 #left-nav{
 	float:left;
+}
+ul li{
+	list-style-type: none;
 }
