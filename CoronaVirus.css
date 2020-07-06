@@ -15,16 +15,9 @@ h1,h4{
  }
 .sym{
 	color:red;
-}
-header :li{
-	color:white;
-}
 ol,ul{
 	color:blue;
 }
-#left-nav{
+.left-nav{
 	float:left;
-}
-ul li{
-	list-style-type: none;
 }
