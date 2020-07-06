@@ -16,7 +16,7 @@ h1,h4{
 .sym{
 	color:red;
 }
-header{
+header :li{
 	color:white;
 }
 ol,ul{
