@@ -30,13 +30,11 @@ ul li{
 }
 footer{ 
 	background-color:black;
-	height:200px;
+	height:50px;
 }
 .footer{
-	margin-left:500px;
-	margin-top:50px;
-	padding:50px;
 	color: white;
+	text-align: center;
 }
 #right-nav{
 	float:right;
