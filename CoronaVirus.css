@@ -46,3 +46,6 @@ a {
 #right-nav li{
 	display : inline-block;
 }
+h1,h4{
+	text-shadow: 2px 2px 5px red;
+}
