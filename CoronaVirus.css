@@ -37,3 +37,8 @@ footer{
 	margin-left:500px;
 	margin-top:50px;
 }
+#right-nav{
+	float:left;
+	color:white;
+	text-decoration: none;
+}
