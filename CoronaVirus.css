@@ -29,7 +29,7 @@ ul li{
 	list-style-type: none;
 }
 footer{
-	color:white;
+	color:white; 
 	background-color:black;
 	height:100;
 }
@@ -38,7 +38,9 @@ footer{
 	margin-top:50px;
 }
 #right-nav{
-	float:left;
-	color:white;
+	float:right;
+}
+a {
+	color: white;
 	text-decoration: none;
 }
