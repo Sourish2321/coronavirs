@@ -46,4 +46,5 @@ a {
 }
 #right-nav li{
 	display : inline-block;
+	margin-left: 10px
 }
