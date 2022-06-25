@@ -1,14 +1,13 @@
 body{
-	background-color:lightgreen; 
-	margin: 0px;
-	padding: 0px;
-	align-items: center;
-
-
+	background-color:lightgreen;
+	text-align: center;
 }
+
 h1,h4{
      color:red;
  }
+
+
  header{
 	 background-color: blue;
 	 height:50;
@@ -32,15 +31,13 @@ ul li{
 	list-style-type: none;
 }
 footer{ 
-	background-color:black;
 	height:50px;
+	margin-top: 5rem;
+
 }
 .footer{
-	color: white;
+	color : black;
 	text-align: center;
-}
-#right-nav{
-	float:right;
 }
 a {
 	color: white;
@@ -48,7 +45,4 @@ a {
 }
 #right-nav li{
 	display : inline-block;
-}
-h1,h4{
-	text-shadow: 2px 2px 5px red;
 }
