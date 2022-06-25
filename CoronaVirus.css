@@ -1,7 +1,10 @@
 body{
-	background-color:lightgreen;
+	background-color:lightgreen; 
 	margin: 0px;
 	padding: 0px;
+	align-items: center;
+
+
 }
 h1,h4{
      color:red;
